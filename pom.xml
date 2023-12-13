@@ -43,6 +43,8 @@
             <artifactId>docx4j</artifactId>
             <version>6.1.2</version>
         </dependency>
+
+        <!--        Technical part-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
